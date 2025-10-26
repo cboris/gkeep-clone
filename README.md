@@ -13,7 +13,9 @@ obtaining oauth token and installing it into your keyring:
 
 1. checkout https://github.com/djsudduth/keep-it-markdown  separately
 2. follow instructions for obtaining master token and setting it into your KeyChain
-3. Edit main replacing SRC_MAIL and DST_MAIL
+3. checkout this project
+4. Set venv and install requirements
+5. Edit main replacing SRC_MAIL and DST_MAIL
 
 ## Usage
 Congrats! You can now run google keep clone. Simply start by running:  
@@ -21,5 +23,5 @@ Congrats! You can now run google keep clone. Simply start by running:
 > python google-keep-clone.py
 ```
 
-Happy cloning!
+Happy  google keep cloning!
 
