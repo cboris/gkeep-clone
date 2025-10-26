@@ -16,8 +16,10 @@ obtaining oauth token and installing it into your keyring:
 3. Edit main replacing SRC_MAIL and DST_MAIL
 
 ## Usage
-Congrats! You can now run move-google-keep. Simply start by running:  
+Congrats! You can now run google keep clone. Simply start by running:  
 ```bash
-> python google-keep-move.py
+> python google-keep-clone.py
 ```
+
+Happy cloning!
 
